@@ -1,4 +1,4 @@
-require 'member'
+require_relative './member'
 
 class Selector 
 
